@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Nagendrarasa Janarthanan 👋
 
-<!--
-**nnjana/nnjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a multidisciplinary Engineer focused on the intersection of **Mechatronics** and **Renewable Energy Systems**. My work revolves around creating smarter, more efficient ways to generate and manage power through automation and data-driven design.
 
-Here are some ideas to get you started:
+### 🎓 Education
+* **MSc in Renewable Energy Systems** | Staffordshire University, UK 🇬🇧
+* **B.Tech in Mechatronics** | Uva Wellassa University, Sri Lanka 🇱🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+* **Languages:** Python (Data Analysis/ML), C/C++ (Embedded Systems), MATLAB/Simulink.
+* **Energy Tech:** Energy System Modeling, Smart Grids, PV System Design.
+* **Mechatronics:** Robotics, Control Systems, PLC Programming, IoT.
+
+### 🚀 Current Interests
+- 🔋 Optimizing Microgrids using Machine Learning.
+- 🤖 Developing Autonomous Systems for renewable infrastructure maintenance.
+- 📉 Energy Analytics and Forecasting.
