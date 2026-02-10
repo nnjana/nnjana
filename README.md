@@ -3,7 +3,7 @@
 I am a multidisciplinary Engineer and Researcher operating at the intersection of **Mechatronics**, **Renewable Energy**, and **Medical Physics**. My expertise lies in designing and optimizing complex systems that bridge the gap between advanced hardware and real-world impact.
 
 ### 🎓 Education
-* **PGDip in Medical Physics** | [University Name] 🏥
+* **PGDip in Medical Physics** | University of Colombo, Sri Lanka 🇱🇰 
 * **MSc in Renewable Energy Systems** | Staffordshire University, UK 🇬🇧
 * **B.Tech in Mechatronics** | Uva Wellassa University, Sri Lanka 🇱🇰
 
