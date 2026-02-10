@@ -1,17 +1,19 @@
 # Hi there, I'm Nagendrarasa Janarthanan 👋
 
-I am a multidisciplinary Engineer focused on the intersection of **Mechatronics** and **Renewable Energy Systems**. My work revolves around creating smarter, more efficient ways to generate and manage power through automation and data-driven design.
+I am a multidisciplinary Engineer and Researcher operating at the intersection of **Mechatronics**, **Renewable Energy**, and **Medical Physics**. My expertise lies in designing and optimizing complex systems that bridge the gap between advanced hardware and real-world impact.
 
 ### 🎓 Education
+* **PGDip in Medical Physics** | [University Name] 🏥
 * **MSc in Renewable Energy Systems** | Staffordshire University, UK 🇬🇧
 * **B.Tech in Mechatronics** | Uva Wellassa University, Sri Lanka 🇱🇰
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python (Data Analysis/ML), C/C++ (Embedded Systems), MATLAB/Simulink.
-* **Energy Tech:** Energy System Modeling, Smart Grids, PV System Design.
-* **Mechatronics:** Robotics, Control Systems, PLC Programming, IoT.
+* **Languages:** Python (Data Science/Image Processing), C/C++, MATLAB/Simulink.
+* **Medical Physics:** Radiation Physics, Medical Imaging Systems, Signal Processing.
+* **Energy & Automation:** Smart Grids, IoT, Robotics, Control Systems, PLC.
 
 ### 🚀 Current Interests
-- 🔋 Optimizing Microgrids using Machine Learning.
-- 🤖 Developing Autonomous Systems for renewable infrastructure maintenance.
-- 📉 Energy Analytics and Forecasting.
+- 🏥 **Healthcare Tech:** Applying Mechatronics to medical instrumentation and imaging.
+- 🔋 **Sustainable Power:** Intelligent energy management for healthcare facilities.
+- 🤖 **Bio-Robotics:** The fusion of automation and human-centric physical systems.
+
